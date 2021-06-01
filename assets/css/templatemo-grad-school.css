@@ -1620,7 +1620,7 @@ File: About Us - 2 CSS
 #about-us #team ul li figure figcaption ul li a img{}
 #about-us #team ul li figure figcaption .team_description{display:block; clear:both; margin:0; padding-top:15px; line-height:1.4em; border-top:1px solid #CCCCCC;}
 
-#about-us #client_logos{margin:0 0 50px 0; padding:30px 0; border:#CCCCCC solid; border-width:1px 0;}
+#about-us #client_logos{margin:0 0 50px 0; padding:30px 0;}
 #about-us #client_logos ul{margin:0; padding:0; list-style:none;}
 #about-us #client_logos ul li{}
 #about-us #client_logos ul li:first-child{margin-left:0;}
