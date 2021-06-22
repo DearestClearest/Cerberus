@@ -1609,8 +1609,10 @@ h1
 /* Three columns side by side */
 .column {
     float: left;
-    width: 100px;
+    width: 25%;
     margin-bottom: 16px;
+	margin-left: 20px;
+	margin-right: 20px;
     padding: 0 8px;
 }
 
